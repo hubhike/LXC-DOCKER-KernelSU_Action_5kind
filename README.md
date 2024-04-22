@@ -1,5 +1,7 @@
 forked from https://github.com/5kind/LXC-DOCKER-KernelSU_Action
 
+点击查看：[k20p lxc+docker+ksu+... 来自 Shikabane - 酷安](https://www.coolapk.com/feed/51180667?shareKey=YzQxZGQxZTY0YmJiNjYyNWM3MjE)
+
 **中文** | [English](README_EN.md)
 
 # KernelSU Action
